@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Jetis",
+                "address": "Jl. AM. Sangaji No.48, Cokrodiningratan, Jetis, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3645, -7.7846]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Gondokusuman I",
+                "address": "Jl. Abu Bakar Ali No.2, Kotabaru, Gondokusuman, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3728, -7.7852]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Gondokusuman II",
+                "address": "Jl. Tunjung No.10, Klitren, Gondokusuman, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3774, -7.7824]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Danurejan I",
+                "address": "Jl. Juminahan No.20, Bausasran, Danurejan, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3711, -7.7925]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Danurejan II",
+                "address": "Jl. Hayam Wuruk No.54, Tegalpanggung, Danurejan, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3769, -7.7933]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Ngampilan",
+                "address": "Jl. KH. Ahmad Dahlan No.103, Ngampilan, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3627, -7.8011]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Wirobrajan",
+                "address": "Jl. Letjen S. Parman No.50, Wirobrajan, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3512, -7.8019]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Tegalrejo",
+                "address": "Jl. Magelang No.22, Tegalrejo, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3548, -7.7897]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Mantrijeron",
+                "address": "Jl. DI Panjaitan No.75, Mantrijeron, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3601, -7.8190]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Kraton",
+                "address": "Jl. Rotowijayan No.3, Kraton, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3625, -7.8103]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Mergangsan",
+                "address": "Jl. Sisingamangaraja No.55, Mergangsan, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3730, -7.8163]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Umbulharjo I",
+                "address": "Jl. Veteran No.56, Umbulharjo, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3851, -7.8125]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Umbulharjo II",
+                "address": "Jl. Pramuka No.26, Giwangan, Umbulharjo, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3896, -7.8273]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Kotagede I",
+                "address": "Jl. Tegalgendu No.23, Prenggan, Kotagede, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.4018, -7.8185]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Kotagede II",
+                "address": "Jl. Nyi Pembayun No.88, Rejowinangun, Kotagede, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.4073, -7.8231]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Pakualaman",
+                "address": "Jl. Masjid No.5, Gunungketur, Pakualaman, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3747, -7.8004]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Gedongtengen",
+                "address": "Jl. Letjen Suprapto No.4, Gedongtengen, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3634, -7.7917]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Tegalrejo II",
+                "address": "Jl. Jambon No.12, Kricak, Tegalrejo, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.3536, -7.7864]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Ngaglik",
+                "address": "Jl. Kaliurang Km 10, Ngaglik, Sleman, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.4012, -7.7153]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puskesmas Depok III",
+                "address": "Jl. Selokan Mataram, Condongcatur, Depok, Sleman, Yogyakarta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.4059, -7.7622]
+            }
+        }
+    ]
+}
