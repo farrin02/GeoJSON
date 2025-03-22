@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Custom Icon Marker Leaflet</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+</head>
+<body>
+
+    <div id="map" style="width: 100%; height: 600px;"></div>
+
+    <script>
+        // Inisialisasi peta
+        var map = L.map('map').setView([-7.774, 110.374], 12);
+
+        // Tambahkan basemap OpenStreetMap
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Definisikan custom icon untuk marker (contoh ikon rumah sakit dari Flaticon)
+        var customIcon = L.icon({
+            iconUrl: "https://cdn-icons-png.flaticon.com/512/3178/3178185.png", // URL ikon
+            iconSize: [32, 32], // Ukuran icon
+            iconAnchor: [16, 32], // Posisi anchor icon
+            popupAnchor: [0, -32] // Posisi popup terhadap icon
+        });
+
+        // Load file GeoJSON lokal
+        $.getJSON("puskesmas.geojson", function(data) {
+            L.geoJSON(data, {
+                pointToLayer: function(feature, latlng) {
+                    return L.marker(latlng, { icon: customIcon }).bindPopup("Puskesmas: " + feature.properties.name);
+                }
+            }).addTo(map);
+        });
+    </script>
+
+</body>
+</html>
