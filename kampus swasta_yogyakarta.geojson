@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Ahmad Dahlan",
+                "info": "Kampus swasta berbasis Muhammadiyah di Yogyakarta."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.3804, -7.7973], [110.3814, -7.7973], [110.3814, -7.7963], [110.3804, -7.7963], [110.3804, -7.7973]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Muhammadiyah Yogyakarta",
+                "info": "Salah satu kampus Muhammadiyah terbesar di Indonesia."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.3391, -7.8271], [110.3401, -7.8271], [110.3401, -7.8261], [110.3391, -7.8261], [110.3391, -7.8271]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Islam Indonesia",
+                "info": "Kampus swasta Islam tertua di Indonesia."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.4088, -7.7154], [110.4098, -7.7154], [110.4098, -7.7144], [110.4088, -7.7144], [110.4088, -7.7154]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Atma Jaya Yogyakarta",
+                "info": "Kampus berbasis Katolik yang memiliki program unggulan."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.3974, -7.7821], [110.3984, -7.7821], [110.3984, -7.7811], [110.3974, -7.7811], [110.3974, -7.7821]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Sanata Dharma",
+                "info": "Kampus berbasis Katolik dengan program pendidikan terkenal."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.4036, -7.7709], [110.4046, -7.7709], [110.4046, -7.7699], [110.4036, -7.7699], [110.4036, -7.7709]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Kristen Duta Wacana",
+                "info": "Kampus swasta berbasis Kristen di pusat kota Yogyakarta."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.3683, -7.7825], [110.3693, -7.7825], [110.3693, -7.7815], [110.3683, -7.7815], [110.3683, -7.7825]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Mercu Buana Yogyakarta",
+                "info": "Kampus swasta dengan berbagai program studi unggulan."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.3608, -7.7622], [110.3618, -7.7622], [110.3618, -7.7612], [110.3608, -7.7612], [110.3608, -7.7622]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas AMIKOM Yogyakarta",
+                "info": "Kampus teknologi dan bisnis berbasis swasta."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.4126, -7.7620], [110.4136, -7.7620], [110.4136, -7.7610], [110.4126, -7.7610], [110.4126, -7.7620]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Universitas Janabadra",
+                "info": "Kampus swasta dengan program hukum unggulan."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.3601, -7.7995], [110.3611, -7.7995], [110.3611, -7.7985], [110.3601, -7.7985], [110.3601, -7.7995]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STIE YKPN",
+                "info": "Sekolah tinggi ekonomi terkemuka di Yogyakarta."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[110.3935, -7.7641], [110.3945, -7.7641], [110.3945, -7.7631], [110.3935, -7.7631], [110.3935, -7.7641]]
+                ]
+            }
+        }
+    ]
+}
